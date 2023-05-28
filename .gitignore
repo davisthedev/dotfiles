@@ -1,0 +1,11 @@
+# Ignore All
+/*
+
+# Except
+!.gitignore
+!/nvim/*
+!/picom/*
+!/polybar/*
+!/i3/*
+!/autorandr/*
+!/kitty/*
